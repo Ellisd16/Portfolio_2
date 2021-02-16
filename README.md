@@ -15,3 +15,7 @@ LinkedIn: https://www.linkedin.com/in/ellis-delgado/
 Email: ellisdelgado13@gmail.com
 
 Phone Number: (562)367-6317
+
+## Image
+
+![port_img](https://user-images.githubusercontent.com/70980600/108011117-414c0280-6fbb-11eb-985c-0067d9d45906.png)
