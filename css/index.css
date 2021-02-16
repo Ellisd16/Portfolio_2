@@ -1,5 +1,5 @@
 .headGif{
-    height: 300px;
+    height: 350px;
     width: auto;
     display: block;
     margin-left: auto;
@@ -8,10 +8,56 @@
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 #ellisPic{
-    height: 200px;
-    width: 200px;
+    height: 250px;
+    width: auto;
     float: left;
     margin-right: auto;
     border-radius: 25px;
     /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 15px 0 rgba(0, 0, 0, 0.19); */
+}
+h2{
+    font-size: 35px;
+}
+.projectImg{
+    height: 400px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.19);
+}
+.rowProject{
+    background-image: linear-gradient(to bottom right, rgb(255, 255, 255), rgba(28, 81, 90, 0.459));
+    border-radius: 25px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.19);
+}
+.title{
+    font-size: 100px;
+    color: rgba(17, 131, 197, 0.897);
+    text-shadow: 4px 4px 2px rgba(150, 150, 150, 0.31);
+}
+.pageBtn {
+    font-size: 35px;
+    background-color: rgba(17, 131, 197, 0.897);
+    color: rgb(255, 250, 245);
+    text-shadow: 4px 4px 2px rgba(150, 150, 150, 0.31);
+    border-radius: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+p{
+    font-size: 25px;
+}
+.link{
+    text-decoration: none;
+}
+body{
+    background-image: rgba(255, 233, 212, 0.719);
+}
+#sectionOne, #sectionTwo{
+    background-image: linear-gradient(to bottom right, rgb(255, 255, 255), rgba(28, 81, 90, 0.459));
+    border-radius: 25px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.19);
+    
 }
