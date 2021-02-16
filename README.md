@@ -6,6 +6,8 @@ Hi! Thank you for checking out my Portfolio Page! I decided to go for a more sim
 
 ## Links
 
+Site: https://ellisd16.github.io/Portfolio_2/
+
 Github Repos: https://github.com/Ellisd16
 
 LinkedIn: https://www.linkedin.com/in/ellis-delgado/
