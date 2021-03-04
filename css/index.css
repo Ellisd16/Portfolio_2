@@ -7,6 +7,10 @@
     border-radius: 50px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
+.navbar{
+    padding: 45px;
+    background-image: linear-gradient(to bottom right, rgb(255, 255, 255), rgba(28, 81, 90, 0.459));
+}
 #ellisPic{
     height: 250px;
     width: auto;
@@ -46,7 +50,7 @@ h2{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     
 }
-p{
+p, .navtext{
     font-size: 25px;
 }
 .link{
