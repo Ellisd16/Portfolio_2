@@ -7,17 +7,23 @@
     border-radius: 50px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
+#headslam{
+    height: 200px;
+    width: auto;
+    float: right;
+    border-radius: 50px;
+}
 .navbar{
     padding: 45px;
     background-image: linear-gradient(to bottom right, rgb(255, 255, 255), rgba(28, 81, 90, 0.459));
 }
 #ellisPic{
-    height: 250px;
+    height: 400px;
     width: auto;
     float: left;
     margin-right: 10px;
     border-radius: 25px;
-    /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 15px 0 rgba(0, 0, 0, 0.19); */
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 15px 0 rgba(0, 0, 0, 0.19);
 }
 h2{
     font-size: 35px;
